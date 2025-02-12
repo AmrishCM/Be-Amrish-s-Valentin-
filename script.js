@@ -25,3 +25,6 @@ function handleNoClick() {
 function handleYesClick() {
     window.location.href = "yes_page.html";
 }
+function handleinstaClick() {
+    window.location.href = "https://www.instagram.com/_i._.amrish/";
+}
